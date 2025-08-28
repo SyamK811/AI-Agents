@@ -1,0 +1,11 @@
+The project uses:
+
+    Streamlit: For UI interface (form + chat)
+
+    LangChain: For LLM agent logic and routing
+
+    Open-source LLM: (mistral)
+
+    Pandas: For handling uploaded health logs (CSV)
+
+    Datetime: For planning and reminders
